@@ -106,7 +106,7 @@
   filter: blur(150px);
 }
 
-@layer {
+@layer components {
   .innerWidth {
     @apply 2xl:max-w-[1280px] w-full;
   }
