@@ -13,7 +13,7 @@ import { Footer, Navbar } from '../components'
 
 export default function Home() {
   return (
-    <main>
+    <main className='bg-primary-black overflow-hidden h-screen text-white'>
       <Navbar />
       <Hero />
       <About />
