@@ -30,5 +30,6 @@ module.exports = {
 	],
 	rules: {
 		semi: ['error', 'never'],
+		'@next/next/no-img-element': 'off',
 	},
 }
