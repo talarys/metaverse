@@ -17,7 +17,7 @@ export default function Home() {
 			<div className='max-w-[1360px] mx-auto' >
 				<Navbar />
 				<Hero />
-				{/* <About /> */}
+				<About />
 				{/* <Explore /> */}
 				{/* <GetStarted /> */}
 				{/* <WhatsNew /> */}
