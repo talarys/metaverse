@@ -2,7 +2,7 @@
 
 import {motion} from 'framer-motion'
 
-import {navVariants, fadeIn} from '@/utils/motion'
+import {fadeIn} from '@/utils/motion'
 
 const ExploreCard = ({id, imgUrl, title, index, active, handleClick}) => (
 	<motion.div
